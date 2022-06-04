@@ -1,0 +1,38 @@
+body html{
+    height: 100%;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: gainsboro;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-box{
+    width: 300px;
+    height: 400px;
+    padding: 40px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.form-title{
+    color: aliceblue;
+    text-transform:uppercase;
+    font-weight: 500;
+}
+.form-box  input[type= "text"]
+.form-box  input[type= "passwoard"]
+.form-box button[type= "submit"]
+border 
+
+
+ 
+ 
+
